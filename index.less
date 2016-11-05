@@ -97,15 +97,16 @@ atom-text-editor, :host {
 }
 
 .string {
-  color: #E6DB74;
+  color: #FFEE99;
 }
 
 .constant.numeric {
-  color: #AE81FF;
+  color: #FF80F4;
 }
 
+.support.constant.sqf,
 .constant.language {
-  color: #AE81FF;
+  color: #C29FFF;
 }
 
 .constant.character,
@@ -118,11 +119,24 @@ atom-text-editor, :host {
   color: #F92672;
 }
 
-.keyword.operator.bracket,
-.keyword.operator.punctuation,
- {
+.brace {
+  color: #FF0000;
+}
+
+.keyword.control.sqf {
+  color: #FF0000;
+}
+
+.keyword.operator {
   color: #FFFFFF;
 }
+
+.keyword.operator.bracket,
+.keyword.operator.punctuation,
+.keyword.operator.logical {
+  color: #FFFFFF;
+}
+
 
 .storage {
   color: #F92672;
@@ -207,4 +221,32 @@ atom-text-editor, :host {
 // 'this' Javascript
 .variable.language.js {
   color: #F92672;
+}
+
+// -- SQF Starts here
+.variable.other.sqf {
+  color: #99FF99;
+}
+
+.variable.language.sqf {
+  color: #99FF00;
+  font-weight: bold;
+}
+
+.support.function.cba.sqf,
+.support.function.ace3.sqf,
+.support.function.bis.sqf {
+  color: #9999FF;
+  font-weight: bold;
+}
+
+.punctuation.definition.keyword.c,
+.punctuation.separator.continuation.c,
+.keyword.control.import.c {
+  color: #A94433;
+}
+
+// Macros
+.keyword.other.cba.sqf {
+  color: #FF7134;
 }

@@ -1,21 +1,23 @@
 {
-  "name": "monokai-shade",
+  "name": "monokai-poseidon",
   "theme": "syntax",
-  "version": "0.3.5",
-  "description": "A Monokai syntax theme variant with some subtle, relaxing tweaks",
+  "version": "0.0.1",
+  "description": "A Monokai syntax theme, recreationg of Poseidon Tools default theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amp343/monokai-shade"
+    "url": "https://github.com/Adanteh/monokai-poseidon"
   },
   "keywords": [
-    "monokai"
+    "monokai",
+    "sqf",
+    "arma"
   ],
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
   "bugs": {
-    "url": "https://github.com/amp343/monokai-shade/issues"
+    "url": "https://github.com/Adanteh/monokai-poseidon/issues"
   },
-  "homepage": "https://github.com/amp343/monokai-shade"
+  "homepage": "https://github.com/Adanteh/monokai-poseidon"
 }
