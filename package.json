@@ -5,12 +5,13 @@
   "description": "A Monokai syntax theme, recreationg of Poseidon Tools default theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Adanteh/monokai-poseidon"
+    "url": "git+https://github.com/adanteh/language-arma-mapbuilder.git"
   },
   "keywords": [
     "monokai",
     "sqf",
-    "arma"
+    "arma",
+    "poseidon"
   ],
   "license": "MIT",
   "engines": {
