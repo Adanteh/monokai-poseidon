@@ -13,5 +13,4 @@ Based on the original Atom Monokai theme - https://github.com/kevinsawicki/monok
 - Different color for special vars
 - Different highlighting for BIS, ACE and CBA functions
 
-
 ![](https://cloud.githubusercontent.com/assets/425365/8395317/ff4e2fd4-1d36-11e5-9c1d-f8c9982c72ba.png)
