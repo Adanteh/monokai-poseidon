@@ -1,7 +1,7 @@
 {
   "name": "monokai-poseidon",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Monokai syntax theme, recreationg of Poseidon Tools default theme",
   "repository": {
     "type": "git",
