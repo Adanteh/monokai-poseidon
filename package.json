@@ -1,7 +1,7 @@
 {
   "name": "monokai-poseidon",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A Monokai syntax theme, recreationg of Poseidon Tools default theme",
   "repository": {
     "type": "git",
@@ -15,9 +15,6 @@
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "bugs": {
-    "url": "https://github.com/Adanteh/monokai-poseidon/issues"
   },
   "homepage": "https://github.com/Adanteh/monokai-poseidon"
 }
